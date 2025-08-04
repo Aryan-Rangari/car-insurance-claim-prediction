@@ -69,12 +69,6 @@ car-insurance-claim-prediction/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🎥 Credits
 
 This project was inspired by the tutorial:  
